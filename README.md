@@ -1,33 +1,20 @@
 # Horiseon
  *Naomi Smith*
-  [Horiseon code refactor repository](git@github.com:smithnaomi/Horiseon.git)
- ## User Story
+  [Horiseon code refactor repository](https://github.com/smithnaomi/Horiseon)
+ 
+
+## Overview
 
 ```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
-## Acceptance Criteria
-
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+The marketing agency will have a webpage that meets accessibility standards. The source code will have semantic HTML elements and will be in logical structure. All of the images will contain an alt attribute, with all images in sequential order. This webpage will be enjoyable to a user with a diabilty and is using a screen reader.I am happy to be able apart of a project that is user friendly. It was a challenge to rework CSS and use semantic HTML elements. I did enjoyed working with CSS and image elements. 
 ```
 
 ## Usage
 
-<!-- ![code refactor demo]( screenshot) -->
+![code refactor screenshot](assets/images/01-html-css-git-homework-demo.png)
 
+[Live webpage](https://smithnaomi.github.io/Horiseon/)
 ## Lisense
 - - -
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
